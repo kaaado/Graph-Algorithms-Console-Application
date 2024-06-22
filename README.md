@@ -19,19 +19,19 @@ This repository contains a console application for visualizing and performing va
  **Example**
 
 Here is an example of how to use the application:
-    - Graph Input as String: A-B:3,B-C:2,C-A:1
-    - Graph Input as Dictionary: {'A': {'B': 3, 'C': 2}, 'B': {'A': 3, 'C': 1}, 'C': {'A': 2, 'B': 1}}
+  - Graph Input as String: A-B:3,B-C:2,C-A:1
+  - Graph Input as Dictionary: {'A': {'B': 3, 'C': 2}, 'B': {'A': 3, 'C': 1}, 'C': {'A': 2, 'B': 1}}
 
 **Algorithm Selection**
-    - Dijkstra's Algorithm: Finds the shortest paths from a starting vertex.
-    - Kruskal's Algorithm: Finds the minimum spanning tree of the graph.
-    - Ford's Algorithm: Finds the shortest paths from a starting vertex.
+  - Dijkstra's Algorithm: Finds the shortest paths from a starting vertex.
+  - Kruskal's Algorithm: Finds the minimum spanning tree of the graph.
+  - Ford's Algorithm: Finds the shortest paths from a starting vertex.
 
-##Contact
+## Contact
 
 For any questions or suggestions, feel free to contact me:
-    - Name: Yacine Kermame
-    - Email: yacineyoyoker@gmail.com
+  - Name: Yacine Kermame
+  - Email: yacineyoyoker@gmail.com
 ## Installation
 
 To run this application, you need Python installed on your system along with the required libraries. You can install the required libraries using `pip`:
