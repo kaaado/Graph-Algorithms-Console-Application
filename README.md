@@ -1,6 +1,6 @@
 # Graph Algorithms Console Application
 
-This repository contains a console application for visualizing and performing various graph algorithms. The application allows users to input graphs and apply algorithms like Dijkstra's, Kruskal's, and Ford's to find shortest paths and minimum spanning trees.
+This repository contains a console application for visualizing and performing various graph algorithms. The application allows users to input graphs and apply algorithms like Dijkstra's, Kruskal's,  Ford's and boruvkato find shortest paths and minimum spanning trees.
 
 ## Features
 
